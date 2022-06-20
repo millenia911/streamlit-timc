@@ -12,4 +12,4 @@ Welcome to this page! Ceritanya deskripsi ceritanya deskripsi ceritanya deskrips
 5. Lorem ipsum artinya aku yahudi.
 6. Ketik 1 dan lihat apa yang akan terjadi.
 
-<center><img src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif"></center>
+<center><img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" height=400></center>
